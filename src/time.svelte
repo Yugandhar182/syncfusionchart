@@ -232,8 +232,7 @@
      .h1{
      font-size: 17px;
      font-weight: bold;
-     margin-left: -1220px;
-     margin-bottom: 20px;
+    margin-bottom: 20px;
  
   }
  
