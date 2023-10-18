@@ -98,7 +98,7 @@
                  valueType: 'Category',
                  majorGridLines: { width: 0 },
                  labelStyle: {
-                     size: '17px',
+                     size: '15px',
                   fontWeight:"normal"
           
             }
